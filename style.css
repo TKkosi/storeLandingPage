@@ -5,3 +5,15 @@ footer{
 input{
     background-color: blue;
 }
+
+header{
+    background-color: blue;
+}
+.jumbotrontext-center{
+    background-image: url(image\ 100.jpeg);
+    background-size:auto;
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100remm;
+    background-size:;
+}
