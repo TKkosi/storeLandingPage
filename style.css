@@ -13,4 +13,5 @@ header{
     background-image: url(images300.jpg);
     background-repeat: no-repeat;
     background-size:cover;
+    height: 60vh;
 }
